@@ -1,0 +1,15 @@
+C:\Users\anakbau\Documents\Visual Studio 2015\Projects\Bootcamp.API\DataAccess\bin\Debug\DataAccess.exe.config
+C:\Users\anakbau\Documents\Visual Studio 2015\Projects\Bootcamp.API\DataAccess\bin\Debug\DataAccess.exe
+C:\Users\anakbau\Documents\Visual Studio 2015\Projects\Bootcamp.API\DataAccess\bin\Debug\DataAccess.pdb
+C:\Users\anakbau\Documents\Visual Studio 2015\Projects\Bootcamp.API\DataAccess\bin\Debug\Core.exe
+C:\Users\anakbau\Documents\Visual Studio 2015\Projects\Bootcamp.API\DataAccess\bin\Debug\EntityFramework.dll
+C:\Users\anakbau\Documents\Visual Studio 2015\Projects\Bootcamp.API\DataAccess\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\anakbau\Documents\Visual Studio 2015\Projects\Bootcamp.API\DataAccess\bin\Debug\Core.pdb
+C:\Users\anakbau\Documents\Visual Studio 2015\Projects\Bootcamp.API\DataAccess\bin\Debug\EntityFramework.xml
+C:\Users\anakbau\Documents\Visual Studio 2015\Projects\Bootcamp.API\DataAccess\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\anakbau\Documents\Visual Studio 2015\Projects\Bootcamp.API\DataAccess\obj\Debug\DataAccess.csprojResolveAssemblyReference.cache
+C:\Users\anakbau\Documents\Visual Studio 2015\Projects\Bootcamp.API\DataAccess\obj\Debug\DataAccess.Migrations.AddSupplier.resources
+C:\Users\anakbau\Documents\Visual Studio 2015\Projects\Bootcamp.API\DataAccess\obj\Debug\DataAccess.Migrations.AddId.resources
+C:\Users\anakbau\Documents\Visual Studio 2015\Projects\Bootcamp.API\DataAccess\obj\Debug\DataAccess.csproj.GenerateResource.Cache
+C:\Users\anakbau\Documents\Visual Studio 2015\Projects\Bootcamp.API\DataAccess\obj\Debug\DataAccess.exe
+C:\Users\anakbau\Documents\Visual Studio 2015\Projects\Bootcamp.API\DataAccess\obj\Debug\DataAccess.pdb

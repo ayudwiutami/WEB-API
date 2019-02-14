@@ -1,0 +1,9 @@
+C:\Users\anakbau\Documents\Visual Studio 2015\Projects\Bootcamp.API\Core\bin\Debug\Core.exe.config
+C:\Users\anakbau\Documents\Visual Studio 2015\Projects\Bootcamp.API\Core\bin\Debug\Core.exe
+C:\Users\anakbau\Documents\Visual Studio 2015\Projects\Bootcamp.API\Core\bin\Debug\Core.pdb
+C:\Users\anakbau\Documents\Visual Studio 2015\Projects\Bootcamp.API\Core\bin\Debug\EntityFramework.dll
+C:\Users\anakbau\Documents\Visual Studio 2015\Projects\Bootcamp.API\Core\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\anakbau\Documents\Visual Studio 2015\Projects\Bootcamp.API\Core\bin\Debug\EntityFramework.xml
+C:\Users\anakbau\Documents\Visual Studio 2015\Projects\Bootcamp.API\Core\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\anakbau\Documents\Visual Studio 2015\Projects\Bootcamp.API\Core\obj\Debug\Core.exe
+C:\Users\anakbau\Documents\Visual Studio 2015\Projects\Bootcamp.API\Core\obj\Debug\Core.pdb

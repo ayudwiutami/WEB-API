@@ -1,0 +1,16 @@
+C:\Users\anakbau\Documents\Visual Studio 2015\Projects\Bootcamp.API\BussinessLogic\bin\Debug\BussinessLogic.exe.config
+C:\Users\anakbau\Documents\Visual Studio 2015\Projects\Bootcamp.API\BussinessLogic\bin\Debug\BussinessLogic.exe
+C:\Users\anakbau\Documents\Visual Studio 2015\Projects\Bootcamp.API\BussinessLogic\bin\Debug\BussinessLogic.pdb
+C:\Users\anakbau\Documents\Visual Studio 2015\Projects\Bootcamp.API\BussinessLogic\bin\Debug\Common.exe
+C:\Users\anakbau\Documents\Visual Studio 2015\Projects\Bootcamp.API\BussinessLogic\bin\Debug\Core.exe
+C:\Users\anakbau\Documents\Visual Studio 2015\Projects\Bootcamp.API\BussinessLogic\bin\Debug\DataAccess.exe
+C:\Users\anakbau\Documents\Visual Studio 2015\Projects\Bootcamp.API\BussinessLogic\bin\Debug\EntityFramework.dll
+C:\Users\anakbau\Documents\Visual Studio 2015\Projects\Bootcamp.API\BussinessLogic\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\anakbau\Documents\Visual Studio 2015\Projects\Bootcamp.API\BussinessLogic\bin\Debug\Common.pdb
+C:\Users\anakbau\Documents\Visual Studio 2015\Projects\Bootcamp.API\BussinessLogic\bin\Debug\Core.pdb
+C:\Users\anakbau\Documents\Visual Studio 2015\Projects\Bootcamp.API\BussinessLogic\bin\Debug\DataAccess.pdb
+C:\Users\anakbau\Documents\Visual Studio 2015\Projects\Bootcamp.API\BussinessLogic\bin\Debug\EntityFramework.xml
+C:\Users\anakbau\Documents\Visual Studio 2015\Projects\Bootcamp.API\BussinessLogic\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\anakbau\Documents\Visual Studio 2015\Projects\Bootcamp.API\BussinessLogic\obj\Debug\BussinessLogic.csprojResolveAssemblyReference.cache
+C:\Users\anakbau\Documents\Visual Studio 2015\Projects\Bootcamp.API\BussinessLogic\obj\Debug\BussinessLogic.exe
+C:\Users\anakbau\Documents\Visual Studio 2015\Projects\Bootcamp.API\BussinessLogic\obj\Debug\BussinessLogic.pdb

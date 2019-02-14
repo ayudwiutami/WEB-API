@@ -1,0 +1,14 @@
+C:\Users\anakbau\Documents\Visual Studio 2015\Projects\Bootcamp.API\Common\bin\Debug\Common.exe.config
+C:\Users\anakbau\Documents\Visual Studio 2015\Projects\Bootcamp.API\Common\bin\Debug\Common.exe
+C:\Users\anakbau\Documents\Visual Studio 2015\Projects\Bootcamp.API\Common\bin\Debug\Common.pdb
+C:\Users\anakbau\Documents\Visual Studio 2015\Projects\Bootcamp.API\Common\bin\Debug\Core.exe
+C:\Users\anakbau\Documents\Visual Studio 2015\Projects\Bootcamp.API\Common\bin\Debug\DataAccess.exe
+C:\Users\anakbau\Documents\Visual Studio 2015\Projects\Bootcamp.API\Common\bin\Debug\EntityFramework.dll
+C:\Users\anakbau\Documents\Visual Studio 2015\Projects\Bootcamp.API\Common\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\anakbau\Documents\Visual Studio 2015\Projects\Bootcamp.API\Common\bin\Debug\Core.pdb
+C:\Users\anakbau\Documents\Visual Studio 2015\Projects\Bootcamp.API\Common\bin\Debug\DataAccess.pdb
+C:\Users\anakbau\Documents\Visual Studio 2015\Projects\Bootcamp.API\Common\bin\Debug\EntityFramework.xml
+C:\Users\anakbau\Documents\Visual Studio 2015\Projects\Bootcamp.API\Common\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\anakbau\Documents\Visual Studio 2015\Projects\Bootcamp.API\Common\obj\Debug\Common.csprojResolveAssemblyReference.cache
+C:\Users\anakbau\Documents\Visual Studio 2015\Projects\Bootcamp.API\Common\obj\Debug\Common.exe
+C:\Users\anakbau\Documents\Visual Studio 2015\Projects\Bootcamp.API\Common\obj\Debug\Common.pdb
